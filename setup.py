@@ -22,7 +22,7 @@ def package_data(pkg, roots):
 
 setup(
     name='xblock-google-drive',
-    version='0.1',
+    version='0.1.1-rg',
     description='An XBlock which allows embedding of Google documents and calendar within an edX course',
     packages=[
         'google_drive',
